@@ -3,7 +3,7 @@ from datetime import datetime
 from telebot import *
 import sqlite3
 
-bot = TeleBot('7416499319:AAGx8Fz9nwtejDFeasslAnjQ67KcEutjX2o')
+bot = TeleBot('Token')
 
 klav = types.ReplyKeyboardMarkup(resize_keyboard=True)
 buy = types.KeyboardButton("Купили")
