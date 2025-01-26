@@ -1,4 +1,3 @@
-from itertools import product
 from datetime import datetime
 from telebot import *
 import sqlite3
